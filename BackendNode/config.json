@@ -1,0 +1,258 @@
+{
+    "walletPassword": "2e40778c17df8cc0227cfd4b525a2be984b09424913da4731bf7eb1a9d06920f",
+    "networks": {
+        "hardhat": {
+            "chainName": "hardhat",
+            "networkURL": "http://127.0.0.1:8545",
+            "chainId": 31337,
+            "currencySymbol": "ETH",
+            "blockExplorer": "",
+            "apiURL": ""
+        },
+        "mainnet": {
+            "chainName": "mainnet",
+            "networkURL": "https://mainnet.infura.io/v3/76f215f2401547479419ae1d3a19c476",
+            "chainId": 1,
+            "currencySymbol": "ETH",
+            "blockExplorer": "https://etherscan.io",
+            "apiURL": "https://api.etherscan.io"
+        },
+        "sepolia": {
+            "chainName": "sepolia",
+            "networkURL": "https://sepolia.infura.io/v3/76f215f2401547479419ae1d3a19c476",
+            "chainId": 11155111,
+            "currencySymbol": "SepoliaETH",
+            "blockExplorer": "https://sepolia.etherscan.io/",
+            "apiURL": "https://api-sepolia.etherscan.io"
+        },
+        "goerli": {
+            "chainName": "goerli",
+            "networkURL": "https://goerli.infura.io/v3/76f215f2401547479419ae1d3a19c476",
+            "chainId": 5,
+            "currencySymbol": "GoerliETH",
+            "blockExplorer": "https://goerli.etherscan.io/",
+            "apiURL": "https://api-goerli.etherscan.io"
+        }
+    },
+    "networkSelected": {
+        "chainName": "sepolia",
+        "networkURL": "https://sepolia.infura.io/v3/76f215f2401547479419ae1d3a19c476",
+        "chainId": 11155111,
+        "currencySymbol": "SepoliaETH",
+        "blockExplorer": "https://sepolia.etherscan.io/",
+        "apiURL": "https://api-sepolia.etherscan.io"
+    },
+    "wallet": [
+        {
+            "version": 3,
+            "id": "98034fb5-4230-4b52-954a-be63b35dd16a",
+            "address": "a07328830b6773fb24a0b7e3df6c94f2a5862548",
+            "crypto": {
+                "ciphertext": "5e7b3dbbad5ba4ac3d33a2c5936075b7fa95e6dd476e785f3c78cc43ab61dc67",
+                "cipherparams": {
+                    "iv": "ab3867e6db326f5f9cb85b5a78ec5691"
+                },
+                "cipher": "aes-128-ctr",
+                "kdf": "scrypt",
+                "kdfparams": {
+                    "n": 8192,
+                    "r": 8,
+                    "p": 1,
+                    "dklen": 32,
+                    "salt": "01c123404389b03407d4935db3903e93e25173577beed8a62c3988b0f81245c1"
+                },
+                "mac": "485b452f33700aec2e47bf9c2204766170cd837e87a5cf4d69c4a661ae28395f"
+            }
+        },
+        {
+            "version": 3,
+            "id": "086af2ba-8c56-49ae-8537-1b22625a03cc",
+            "address": "1277a609c18ecbace6539e34ab251aadcf89ee98",
+            "crypto": {
+                "ciphertext": "7c8fe2d9d428b4e2c08cb90ac6f8958b3879233c201c10fe7fc5115492a11089",
+                "cipherparams": {
+                    "iv": "5f177e8c8257511956172760e04ccd29"
+                },
+                "cipher": "aes-128-ctr",
+                "kdf": "scrypt",
+                "kdfparams": {
+                    "n": 8192,
+                    "r": 8,
+                    "p": 1,
+                    "dklen": 32,
+                    "salt": "e3e87a5fb539bf373973a1feed598ccd051dc1d8f0731dce3a1dc1380b2f1b22"
+                },
+                "mac": "c184cddb6a30a28d68b9362efaab64ac9682ee6a0393c0fd19c6017974824e58"
+            }
+        },
+        {
+            "version": 3,
+            "id": "39530384-319e-412e-b2bd-9587b068e127",
+            "address": "2546bcd3c84621e976d8185a91a922ae77ecec30",
+            "crypto": {
+                "ciphertext": "a0d6ee84a5d2f6798293025506b938f1fdff5dc27a95f08664cc10a6492ec644",
+                "cipherparams": {
+                    "iv": "781878e147c44fb052f3a8950b492b58"
+                },
+                "cipher": "aes-128-ctr",
+                "kdf": "scrypt",
+                "kdfparams": {
+                    "n": 8192,
+                    "r": 8,
+                    "p": 1,
+                    "dklen": 32,
+                    "salt": "b55265daf7b77fc8c89c5fc261b2aa9e138f8ad62c015a56ac68e6cedbbf81be"
+                },
+                "mac": "70f6541568ba333b538109aa5e9c628e1f27e67586cd3cdc54e6b92971e02b33"
+            }
+        },
+        {
+            "version": 3,
+            "id": "ff59bf81-8930-4ce9-b636-c830edf0f500",
+            "address": "cc1b9c9cddfa526c3f9f7bf97550eab5ec405f5e",
+            "crypto": {
+                "ciphertext": "c9ad95c3c2f421ddabe992c9cb89ab6c200ad644b5d29560619b76093092f93b",
+                "cipherparams": {
+                    "iv": "a8d6b11edc7f92cf507ffb9172f4379e"
+                },
+                "cipher": "aes-128-ctr",
+                "kdf": "scrypt",
+                "kdfparams": {
+                    "n": 8192,
+                    "r": 8,
+                    "p": 1,
+                    "dklen": 32,
+                    "salt": "903129a1528ca6ceb7f160cdbcd3da4f1e731d887e4c8b360647274d3ca1f717"
+                },
+                "mac": "59a90bd28c4cb743fc93b79beff12948e763382c99677abafe2230f3a5c46cc7"
+            }
+        },
+        {
+            "version": 3,
+            "id": "28d875dd-9751-4557-9ae0-9203e2000fa0",
+            "address": "fd00005b181e777ebbb9436adf720b7c6efdfc15",
+            "crypto": {
+                "ciphertext": "1bc953fb18fb7b10312f1744bde93d3d80cf8639d593373f9b12b34553f365e6",
+                "cipherparams": {
+                    "iv": "23caba7520e20c75d6cd3c9db134323e"
+                },
+                "cipher": "aes-128-ctr",
+                "kdf": "scrypt",
+                "kdfparams": {
+                    "n": 8192,
+                    "r": 8,
+                    "p": 1,
+                    "dklen": 32,
+                    "salt": "aec78aec19f5a1bc4c4a3cd1714824ccbb2f5b5f81aad94b60f58ead5bf3d2bb"
+                },
+                "mac": "0cc2af1e38996d453c764c960358eab6b51ebfcd26265f69bdb35e11c1a17ed7"
+            }
+        }
+    ],
+    "accounts": [
+        {
+            "name": "Account 1",
+            "address": "0xa07328830B6773Fb24a0b7e3DF6c94f2A5862548",
+            "imported": false
+        },
+        {
+            "name": "awd",
+            "address": "0x1277a609c18eCbAcE6539E34aB251aADcF89Ee98",
+            "imported": false
+        },
+        {
+            "name": "Account 3",
+            "address": "0x2546BcD3c84621e976D8185a91A922aE77ECEc30",
+            "imported": true
+        },
+        {
+            "name": "Account 4",
+            "address": "0xcC1b9C9cDDfa526c3F9F7Bf97550EaB5EC405F5E",
+            "imported": true
+        },
+        {
+            "name": "Account 5",
+            "address": "0xFd00005B181E777EbbB9436ADf720B7c6EFDfC15",
+            "imported": true
+        }
+    ],
+    "accountSelected": {
+        "name": "Account 5",
+        "address": "0xFd00005B181E777EbbB9436ADf720B7c6EFDfC15",
+        "imported": true
+    },
+    "tokens": {
+        "0xa07328830B6773Fb24a0b7e3DF6c94f2A5862548": {},
+        "0x1277a609c18eCbAcE6539E34aB251aADcF89Ee98": {},
+        "0x2546BcD3c84621e976D8185a91A922aE77ECEc30": {
+            "sepolia": [
+                {
+                    "address": "",
+                    "symbol": "SepoliaETH",
+                    "decimals": 18
+                },
+                {
+                    "address": "0x074D02aeE4999b15d2A3Da2dEC44AFb8EaDf327A",
+                    "symbol": "DAI",
+                    "decimals": 18
+                }
+            ]
+        },
+        "0xcC1b9C9cDDfa526c3F9F7Bf97550EaB5EC405F5E": {
+            "sepolia": [
+                {
+                    "address": "",
+                    "symbol": "SepoliaETH",
+                    "decimals": 18
+                },
+                {
+                    "address": "0x074D02aeE4999b15d2A3Da2dEC44AFb8EaDf327A",
+                    "symbol": "DAI",
+                    "decimals": 18
+                }
+            ]
+        },
+        "0xFd00005B181E777EbbB9436ADf720B7c6EFDfC15": {
+            "sepolia": [
+                {
+                    "address": "",
+                    "symbol": "SepoliaETH",
+                    "decimals": 18
+                },
+                {
+                    "address": "0x074D02aeE4999b15d2A3Da2dEC44AFb8EaDf327A",
+                    "symbol": "DAI",
+                    "decimals": 18
+                }
+            ]
+        }
+    },
+    "pendingTransactions": {
+        "0xa07328830B6773Fb24a0b7e3DF6c94f2A5862548": [],
+        "0x1277a609c18eCbAcE6539E34aB251aADcF89Ee98": [],
+        "0x2546BcD3c84621e976D8185a91A922aE77ECEc30": [],
+        "0xcC1b9C9cDDfa526c3F9F7Bf97550EaB5EC405F5E": [],
+        "0xFd00005B181E777EbbB9436ADf720B7c6EFDfC15": []
+    },
+    "transactions": {
+        "0xa07328830B6773Fb24a0b7e3DF6c94f2A5862548": [],
+        "0x1277a609c18eCbAcE6539E34aB251aADcF89Ee98": [],
+        "0x2546BcD3c84621e976D8185a91A922aE77ECEc30": [],
+        "0xcC1b9C9cDDfa526c3F9F7Bf97550EaB5EC405F5E": [],
+        "0xFd00005B181E777EbbB9436ADf720B7c6EFDfC15": [
+            {
+                "transactionHash": "0x36cca7513cc93ba97bce175abc34d157421522334885d2c9bac5af6f99d9579d",
+                "from": "0xfd00005b181e777ebbb9436adf720b7c6efdfc15",
+                "to": "0x074d02aee4999b15d2a3da2dec44afb8eadf327a",
+                "nonce": "218",
+                "value": "1 DAI",
+                "functionName": "transfer",
+                "gasLimit": "250000",
+                "gasPrice": "71",
+                "total": "17750000",
+                "timeStamp": "Sep 14",
+                "status": "sent"
+            }
+        ]
+    }
+}

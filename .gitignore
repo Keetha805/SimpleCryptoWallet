@@ -1,0 +1,31 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+/branches
+/five-projects-wallet/node_modules
+/BackendNode/node_modules
+/Backend/node_modules
+
+# testing
+/five-projects-wallet/coverage
+
+# production
+/five-projects-wallet/build
+
+# misc
+/five-projects-wallet/.DS_Store
+/five-projects-wallet/.env.local
+/five-projects-wallet/.env.development.local
+/five-projects-wallet/.env.test.local
+/five-projects-wallet/.env.production.local
+
+/five-projects-wallet/npm-debug.log*
+/five-projects-wallet/yarn-debug.log*
+/five-projects-wallet/yarn-error.log*
+
+#files
+example.txt
+package-json.txt
+/five-projects-wallet/.env
+/five-projects-wallet/.gitignore
