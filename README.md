@@ -1,3 +1,3 @@
 # SimpleCryptoWallet
 
-Not beautiful BUT functional 😭
+Not beautiful but is functional 😭
