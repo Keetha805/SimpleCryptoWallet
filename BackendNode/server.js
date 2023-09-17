@@ -220,6 +220,7 @@ const sendTransaction = async (req) => {
   console.log("account: ", account);
   try {
     const signedTx = await account.signTransaction(tx);
+    console.log("signedTx: ", signedTx);
     const sentTransaction = await Web3.eth
       .sendSignedTransaction(signedTx.rawTransaction)
       .on("receipt", async (receipt) => {
